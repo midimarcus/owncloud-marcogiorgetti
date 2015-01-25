@@ -20,7 +20,7 @@ class OC_Theme {
    }
 
    public function getShortFooter() {
-        return 'GNU/LUG PG';
+        return 'Marco Giorgetti';
    }
 
     public function getLongFooter() {

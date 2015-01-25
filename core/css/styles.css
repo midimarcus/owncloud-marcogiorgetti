@@ -26,14 +26,14 @@ body {
 
 #body-login {
 	text-align: center;
-	background: #1d2d44; /* Old browsers */
-	background: -moz-linear-gradient(top, #005A84 0%, #1d2d44 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#005A84), color-stop(100%,#1d2d44)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top, #005A84 0%,#1d2d44 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top, #005A84 0%,#1d2d44 100%); /* Opera11.10+ */
-	background: -ms-linear-gradient(top, #005A84 0%,#1d2d44 100%); /* IE10+ */
-	background: linear-gradient(top, #005A84 0%,#1d2d44 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005A84', endColorstr='#1d2d44',GradientType=0 ); /* IE6-9 */
+	background: #9F2B2B; /* Old browsers */
+	background: -moz-linear-gradient(top, #9E0000 0%, #9F2B2B 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#9E0000), color-stop(100%,#9F2B2B)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #9E0000 0%,#9F2B2B 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #9E0000 0%,#9F2B2B 100%); /* Opera11.10+ */
+	background: -ms-linear-gradient(top, #9E0000 0%,#9F2B2B 100%); /* IE10+ */
+	background: linear-gradient(top, #9E0000 0%,#9F2B2B 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9E0000', endColorstr='#9F2B2B',GradientType=0 ); /* IE6-9 */
 }
 
 
@@ -201,20 +201,20 @@ textarea:disabled {
 
 /* Primary action button, use sparingly */
 .primary, input[type="submit"].primary, input[type="button"].primary, button.primary, .button.primary {
-	border: 1px solid #1d2d44;
-	background-color: #35537a;
+	border: 1px solid #ffffee;
+	background-color: #9F2B2B;
 	color: #ddd;
 }
 	.primary:hover, input[type="submit"].primary:hover, input[type="button"].primary:hover, button.primary:hover, .button.primary:hover,
 	.primary:focus, input[type="submit"].primary:focus, input[type="button"].primary:focus, button.primary:focus, .button.primary:focus {
-		border: 1px solid #1d2d44;
-		background-color: #304d76;
+		border: 1px solid #ffffff;
+		background-color: #DE1817;
 		color: #fff;
 	}
 	.primary:active, input[type="submit"].primary:active, input[type="button"].primary:active, button.primary:active, .button.primary:active {
-		border: 1px solid #1d2d44;
-		background-color: #1d2d44;
-		color: #bbb;
+		border: 1px solid #ffffff;
+		background-color: #9F2B2B;
+		color: #ffffff;
 	}
 
 /* Searchbox */
