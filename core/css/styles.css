@@ -130,6 +130,9 @@ textarea:hover, textarea:focus, textarea:active {
 	color: #fff;
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; filter:alpha(opacity=100); opacity:1;
 }
+#searchbox input[type="search"]:active {
+	color: #FFFFFF;
+}
 input[type="checkbox"] { margin:0; padding:0; height:auto; width:auto; }
 input[type="checkbox"]:hover+label, input[type="checkbox"]:focus+label { color:#111 !important; }
 input[type="time"] {
